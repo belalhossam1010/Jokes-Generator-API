@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  width: 100%;
+}
+textarea {
+  background-color: rgb(194, 5, 5);
+  resize: none;
+  height: 2em;
+  display: block;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(151, 157, 163);
+}
+button {
+  width: 10%;
+}
